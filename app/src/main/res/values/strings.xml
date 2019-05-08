@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IotSecuritySystem</string>
+    <string name="user_id">User ID</string>
+    <string name="password_id">PassWord</string>
+    <string name="input_password_id">PassWord</string>
+    <string name="input_user_id">User Name</string>
+    <string name="login">Login In</string>
+    <string name="user">Yong</string>
+    <string name="getKey">获取临时门禁</string>
+</resources>
